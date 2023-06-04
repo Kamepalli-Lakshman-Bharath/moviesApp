@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 70px auto;
+  border: 1px solid;
+  justify-content: space-between;
+  row-gap: 30px;
+}
+.searchbar {
+  display: block;
+  width: 70%;
+  margin: 30px auto;
+  padding: 6px;
+  text-align: center;
+  caret-color: rgb(0, 0, 0, 0.4);
+  color: rgb(0, 0, 0, 0.7);
+}
