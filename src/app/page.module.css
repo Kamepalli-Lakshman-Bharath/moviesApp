@@ -3,7 +3,6 @@
   flex-wrap: wrap;
   width: 90%;
   margin: 70px auto;
-  border: 1px solid;
   justify-content: space-between;
   row-gap: 30px;
 }
